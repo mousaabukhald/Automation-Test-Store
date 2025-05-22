@@ -172,10 +172,3 @@ src
 
 ---
 
-## 🤝 Author
-
-**Mousa AbuKhaled**  
-QA Engineer & Automation Developer  
-_Contact for collaboration or contributions._
-
----
